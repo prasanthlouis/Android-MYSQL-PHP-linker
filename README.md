@@ -19,6 +19,8 @@ description text,
 
 The autoincrement is a must, as it's used as a hashmap in the android implementation.
 
-The android app provides privacy to only add and read to the database. You can view all entries and modify them using the
+The android app provides privacy to only add and read to the database. 
 
-phpmyadmin on your localhost.
+You can view all entries and modify them using the phpmyadmin on your localhost.
+
+Modify all the php files provided here accordingly, which means path, variable names, etc.
